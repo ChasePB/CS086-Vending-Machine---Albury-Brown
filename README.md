@@ -12,6 +12,7 @@
 add item chips 20 .50  
 add item coke 5 .75  
 add item diet coke 5 .75
+
 inventory  
 buy item coke 0 3 0 0 0  
 
