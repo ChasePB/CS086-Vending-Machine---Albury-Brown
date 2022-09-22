@@ -1,5 +1,11 @@
 # CS086-Vending-Machine---Albury-Brown
 
+# How to Run:
+
+* Download the file and run it.
+* No dollar sign to be used when entering amounts of money
+* Enjoy your items
+
 
 # Sample Input:
 
